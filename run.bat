@@ -1,3 +1,3 @@
 @echo off
-CALL .\volume_adjuster_venv\Scripts\activate
+CALL .\venv\Scripts\activate
 python main.py
