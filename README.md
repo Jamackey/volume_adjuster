@@ -1,12 +1,7 @@
-____   ____________  .____     ____ ___  _____  ___________       _____  ________        ____.
-\   \ /   /\_____  \ |    |   |    |   \/     \ \_   _____/      /  _  \ \______ \      |    |
- \   Y   /  /   |   \|    |   |    |   /  \ /  \ |    __)_      /  /_\  \ |    |  \     |    |
-  \     /  /    |    \    |___|    |  /    Y    \|        \    /    |    \|    `   \/\__|    |
-   \___/   \_______  /_______ \______/\____|__  /_______  /____\____|__  /_______  /\________|
-                   \/        \/               \/        \/_____/       \/        \/           
-
 What does this do?
+
  This app will allow you to change the master volume of the window you are using. 
+ 
  For example: If you are on Dirt 4 in fullscreen, instead of tabbing out and changing the volume mixer, just press Ctrl+Shift+Q/A to reduce or increase the volume. 
 
 How to install:
