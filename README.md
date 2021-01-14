@@ -4,6 +4,7 @@ What does this do?
 
 How to install:
  - Clone or download the repository.
+ - Unzip file.
  - Use run.bat (this will start the python virtual env and run the app).
  - Change window to a exe that provides sound.
  - Use Ctrl+Shift+Q to increase volume
